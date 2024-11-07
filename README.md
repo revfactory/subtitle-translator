@@ -2,6 +2,9 @@
 
 YouTube 자막 번역기는 영어 SRT 자막 파일을 한국어로 번역하는 Google Colab 기반 도구입니다. Anthropic의 Claude AI를 활용하여 고품질의 자연스러운 번역을 제공합니다.
 
+## Blog 정리
+- [차원이 다른 AI 번역: 더 똑똑해진 한글 자막 생성기를 소개합니다](https://revf.tistory.com/305)
+
 ## 주요 기능
 
 - 영어 SRT 자막 파일을 한국어로 번역
